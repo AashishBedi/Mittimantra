@@ -1,0 +1,104 @@
+# =========================
+# 🔹 DATASETS (VERY IMPORTANT)
+# =========================
+dataset/
+data/
+images/
+backend/dataset/
+backend/data/
+frontend/public/images/
+
+**/*.jpg
+**/*.jpeg
+**/*.png
+**/*.bmp
+**/*.tiff
+**/*.webp
+
+# =========================
+# 🔹 LARGE MODEL FILES
+# =========================
+models/
+*.pkl
+*.pt
+*.pth
+*.h5
+*.keras
+*.joblib
+*.onnx
+
+# =========================
+# 🔹 PYTHON / BACKEND
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =========================
+# 🔹 NODE / FRONTEND
+# =========================
+node_modules/
+build/
+dist/
+.npm
+.eslintcache
+.cache
+
+# =========================
+# 🔹 ENVIRONMENT VARIABLES
+# =========================
+.env
+.env.local
+.env.development
+.env.production
+
+# =========================
+# 🔹 IDE / EDITOR
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# 🔹 LOG FILES
+# =========================
+*.log
+logs/
+
+# =========================
+# 🔹 TESTING
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# 🔹 UPLOADS / TEMP
+# =========================
+uploads/
+temp/
+tmp/
+
+# =========================
+# 🔹 OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+
+
+Others/
+*.zip
+Others/
+*.zip
